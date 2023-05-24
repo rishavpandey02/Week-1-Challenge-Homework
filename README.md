@@ -24,7 +24,7 @@ The "images" folder contains all the images that are used for the prject.
 The "CSS" folder contains CSS file (style.css).
 
 ## Contact Information
-Email: rishavpandey@outlook.com.au
+Email: rishavpandey@outlook.com.au 
 
 
 
