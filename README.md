@@ -9,8 +9,8 @@ Or by grouping certain class/ ID codes together on the CSS file.
 ## Features
 The features of my code for the webpage compared to the orginal code are that:
 - I removed unnecessary divs (even replaced one with nav ,the header one,), simplified class names, and applied consistent formatting to make the code cleaner, making it easier to read and understand.
-- In the start of the HTML code that is for the text on the right side of the header, i have put one <li></li> for all 3 of the <a, instead of 1 <li></li> for each <a.
-- I put <p></p> on the same command line (done to make the code look cleaner)
+- In the start of the HTML code that is for the text on the right side of the header, i have put one {<li></li>} for all 3 of the <a, instead of 1 <li></li> for each <a.
+- I put {<p></p>} on the same command line (done to make the code look cleaner)
 - I put merged the class and Id's that had the same information in them
 
 ## File Structure
